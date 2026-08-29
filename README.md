@@ -4,12 +4,14 @@
 
 This simple project uses a potentiometer and servo motor to create a mechanical gauge that can visually represent different moods or positions.
 
+
 ## Objective
 
 * To control a servo motor using an analog input
 * Read potentiometer values using the Arduino's ADC
 * Map analog input values to servo motor angles
 * Display potentiometer values and servo angles through the Serial Monitor
+
 
 ## Components used
 
@@ -20,6 +22,7 @@ This simple project uses a potentiometer and servo motor to create a mechanical 
 * Breadboard
 * Connecting wires
 
+
 ## How It Works
 
 1. Reads the potentiometer value using `analogRead()`.
@@ -28,6 +31,7 @@ This simple project uses a potentiometer and servo motor to create a mechanical 
 4. Moves the servo to the corresponding angle.
 5. Displays the potentiometer value and servo angle through the Serial Monitor.
 
+
 ## What I Learned
 
 * Controlling a servo motor using the Arduino
@@ -35,6 +39,7 @@ This simple project uses a potentiometer and servo motor to create a mechanical 
 * Reading analog inputs using the ADC
 * Using `map()` to scale values between different ranges
 * Using the Serial Monitor to monitor sensor and servo values
+
 
 ## Demonstration
 
