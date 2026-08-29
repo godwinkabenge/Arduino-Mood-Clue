@@ -40,4 +40,4 @@ This simple project uses a potentiometer and servo motor to create a mechanical 
 
 A video showing the potentiometer controlling the servo motor can be seen below.
 
-[Watch the project demonstration](./)
+[Watch the project demonstration](./Arduino_Mood_Cue_demo.mp4)
